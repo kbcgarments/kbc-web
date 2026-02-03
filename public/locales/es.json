@@ -1,0 +1,837 @@
+{
+  "hero": {
+    "eyebrow": "Nueva Colección",
+    "title": {
+      "line1": "Haciendo",
+      "line2": "Movimientos Audaces"
+    },
+    "subtitle": "Mejora tu guardarropa con una variedad de estilos. Descubre las últimas tendencias de la moda y expresa tu estilo único.",
+    "scrollDown": "Desplazar",
+    "trustBadges": {
+      "premiumQuality": "Calidad Premium",
+      "freeShipping": "Envío Gratis",
+      "easyReturns": "Devoluciones Fáciles"
+    }
+  },
+
+  "sections": {
+    "newArrivals": {
+      "title": "Nuevos Productos"
+    },
+    "bestSellers": {
+      "title": "Más Vendidos",
+      "description": "Nuestras piezas más queridas, elegidas por clientes como tú"
+    },
+    "trending": {
+      "title": "Tendencias Actuales"
+    },
+    "shopByCategories": {
+      "title": "Comprar por Categorías"
+    },
+    "shopByStyle": {
+      "title": "Comprar por Estilo",
+      "description": "Encuentra tu look perfecto. Desde comodidad casual hasta sofisticación elegante."
+    },
+    "editorsPicks": {
+      "title": "Selección del Editor",
+      "description": "Selecciones curadas que definen el guardarropa esencial de esta temporada"
+    },
+    "whyChooseUs": {
+      "title": "Por Qué Elegir KBC Universe",
+      "description": "Experimenta calidad premium y servicio excepcional en cada compra"
+    },
+    "testimonials": {
+      "title": "Lo Que Dicen Nuestros Clientes",
+      "description": "Únete a miles de clientes satisfechos que confían en KBC Universe"
+    }
+  },
+
+  "navigation": {
+    "primary": {
+      "home": "Inicio",
+      "shop": "Tienda",
+      "categories": "Categorías",
+      "about": "Acerca de",
+      "contact": "Contacto",
+      "menu": "Menú",
+      "collections": "Colecciones",
+      "trackOrder": "Rastrear Pedido",
+      "sizeGuide": "Guía de Tallas"
+    },
+    "shop": {
+      "men": "Tienda Hombre",
+      "women": "Tienda Mujer",
+      "newArrivals": "Nuevos Productos",
+      "bestSellers": "Más Vendidos",
+      "clearance": "Liquidación",
+      "giftCards": "Tarjetas de Regalo"
+    },
+    "account": {
+      "account": "Cuenta",
+      "login": "Iniciar Sesión",
+      "myAccount": "Mi Cuenta",
+      "myOrders": "Mis Pedidos",
+      "logout": "Cerrar Sesión"
+    },
+    "productViews": {
+      "grid": "Vista Cuadrícula",
+      "list": "Vista Lista",
+      "quickView": "Vista Rápida",
+      "sizeGuide": "Guía de Tallas"
+    },
+    "common": {
+      "viewAll": "Ver Todo",
+      "back": "Atrás",
+      "trackOrder": "Rastrear Pedido",
+      "openMenu": "Abrir menú",
+      "featured": "Destacado",
+      "allCategories": "Todas las Categorías",
+      "quickLinks": "Enlaces Rápidos"
+    }
+  },
+
+  "common": {
+    "language": "Idioma",
+    "currency": "Moneda",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar productos...",
+    "menu": "Menú",
+    "back": "Atrás",
+    "close": "Cerrar",
+    "loading": "Cargando...",
+    "adding": "Agregando...",
+    "clearing": "Limpiando...",
+    "success": "Éxito",
+    "variant": "Variante",
+    "quantity": "Cantidad",
+    "total": "Total",
+    "error": "Error",
+    "color": "Color",
+    "size": "Talla",
+    "toggleSidebar": "Alternar barra lateral",
+    "toggleSearch": "Alternar búsqueda",
+    "toggleTheme": "Alternar tema",
+    "startShopping": "Comenzar a Comprar",
+    "viewAll": "Ver Todo",
+    "all": "Todo",
+    "explore": "Explorar",
+    "exploreAll": "Explorar Todo",
+    "needHelp": "¿Necesitas ayuda?",
+    "items": {
+      "singular": "artículo",
+      "plural": "artículos"
+    }
+  },
+
+  "cart": {
+    "title": "Carrito",
+    "shoppingTitle": "Carrito de Compras",
+    "empty": {
+      "title": "Tu carrito está vacío",
+      "description": "Parece que aún no has agregado nada. ¡Comienza a comprar para llenar tu carrito!"
+    },
+    "labels": {
+      "product": "Producto",
+      "quantity": "Cantidad",
+      "subtotal": "Subtotal",
+      "tax": "Impuesto (est.)",
+      "shipping": "Envío",
+      "total": "Total"
+    },
+    "actions": {
+      "add": "Agregar al Carrito",
+      "remove": "Eliminar",
+      "clear": "Vaciar Carrito",
+      "checkout": "Proceder al Pago",
+      "viewCart": "Ver Carrito",
+      "continueShopping": "Continuar Comprando"
+    },
+    "notes": {
+      "form": {
+        "label": "Nota del Pedido",
+        "placeholder": "Nota del Pedido"
+      },
+      "secureCheckout": "Pago seguro",
+      "freeShipping": "Envío gratis en pedidos superiores a $120. No te lo pierdas.",
+      "support": "Soporte al cliente 24/7",
+      "shippingCalculated": "Calculado al pagar"
+    },
+    "success": {
+      "added": "Artículos agregados a tu carrito",
+      "quantityUpdated": "Cantidad actualizada",
+      "removed": "Artículo eliminado del carrito",
+      "cleared": "Tu carrito está ahora vacío"
+    },
+    "errors": {
+      "stockLimit": "No hay suficiente stock disponible para este artículo",
+      "invalidVariant": "Por favor selecciona una talla y color válidos",
+      "conflict": "Tu carrito fue actualizado en otro lugar. Por favor intenta de nuevo",
+      "generic": "Algo salió mal al actualizar tu carrito"
+    }
+  },
+
+  "wishlist": {
+    "title": "Lista de Deseos",
+    "shoppingTitle": "Lista de Deseos de Compras",
+    "empty": {
+      "title": "Tu lista de deseos está vacía",
+      "description": "¡Guarda tus artículos favoritos aquí y vuelve a ellos en cualquier momento!"
+    },
+    "actions": {
+      "add": "Agregar a lista de deseos",
+      "remove": "Eliminar de lista de deseos",
+      "clear": "Vaciar Lista de Deseos",
+      "viewAll": "Ver Todos los Artículos de la Lista",
+      "continueShopping": "Continuar Comprando"
+    },
+    "success": {
+      "added": "Agregado a lista de deseos",
+      "removed": "Eliminado de lista de deseos",
+      "updated": "Lista de deseos actualizada",
+      "cleared": "Lista de deseos vaciada"
+    },
+    "errors": {
+      "notFound": "Artículo no encontrado en la lista de deseos",
+      "generic": "No se pudo actualizar la lista de deseos"
+    }
+  },
+
+  "product": {
+    "labels": {
+      "sale": "Oferta",
+      "color": "Color",
+      "size": "Talla",
+      "quantity": "Cantidad",
+      "recommended": "Productos Recomendados"
+    },
+    "actions": {
+      "quickShop": "Compra Rápida",
+      "quickView": "Vista Rápida",
+      "viewDetails": "Ver Detalles"
+    },
+    "stock": {
+      "inStock": "En Stock",
+      "inStockReady": "En stock — Listo para enviar",
+      "lowStock": "Solo quedan {{count}} — ¡Se vende rápido!",
+      "outOfStock": "Agotado"
+    },
+    "tabs": {
+      "description": "Descripción del Producto",
+      "shipping": "Envío y Devoluciones",
+      "general": "General"
+    },
+    "empty": {
+      "noProductsFound": "No se encontraron productos"
+    },
+    "sizeChart": {
+      "title": "Guía de Tallas",
+      "units": {
+        "in": "Pulgadas",
+        "cm": "Centímetros"
+      },
+      "columns": {
+        "size": "Talla",
+        "length": "Longitud",
+        "chest": "Pecho"
+      },
+      "women": {
+        "title": "Guía de Tallas Mujer",
+        "rows": [
+          {
+            "size": "XS",
+            "length": { "in": "23–25", "cm": "58–60" },
+            "chest": { "in": "14–16", "cm": "36–38" }
+          },
+          {
+            "size": "S",
+            "length": { "in": "24–26", "cm": "60–62" },
+            "chest": { "in": "16–18", "cm": "40–42" }
+          },
+          {
+            "size": "M",
+            "length": { "in": "25–27", "cm": "63–65" },
+            "chest": { "in": "18–20", "cm": "45–47" }
+          },
+          {
+            "size": "L",
+            "length": { "in": "26–28", "cm": "66–68" },
+            "chest": { "in": "20–22", "cm": "50–52" }
+          },
+          {
+            "size": "XL",
+            "length": { "in": "27–29", "cm": "69–71" },
+            "chest": { "in": "22–24", "cm": "55–57" }
+          },
+          {
+            "size": "XXL",
+            "length": { "in": "28–30", "cm": "72–74" },
+            "chest": { "in": "24–26", "cm": "60–62" }
+          },
+          {
+            "size": "XXXL",
+            "length": { "in": "29–31", "cm": "75–77" },
+            "chest": { "in": "26–28", "cm": "65–67" }
+          }
+        ]
+      },
+      "men": {
+        "title": "Guía de Tallas Hombre",
+        "rows": [
+          {
+            "size": "XS",
+            "length": { "in": "25–27", "cm": "64–66" },
+            "chest": { "in": "32–34", "cm": "81–86" }
+          },
+          {
+            "size": "S",
+            "length": { "in": "26–28", "cm": "66–68" },
+            "chest": { "in": "34–36", "cm": "86–91" }
+          },
+          {
+            "size": "M",
+            "length": { "in": "27–29", "cm": "70–72" },
+            "chest": { "in": "38–40", "cm": "96–101" }
+          },
+          {
+            "size": "L",
+            "length": { "in": "29–31", "cm": "75–77" },
+            "chest": { "in": "42–44", "cm": "106–111" }
+          },
+          {
+            "size": "XL",
+            "length": { "in": "30–32", "cm": "77–79" },
+            "chest": { "in": "46–48", "cm": "116–121" }
+          },
+          {
+            "size": "XXL",
+            "length": { "in": "32–34", "cm": "82–84" },
+            "chest": { "in": "50–52", "cm": "126–132" }
+          },
+          {
+            "size": "XXXL",
+            "length": { "in": "34–36", "cm": "87–89" },
+            "chest": { "in": "54–56", "cm": "137–142" }
+          }
+        ]
+      }
+    }
+  },
+
+  "checkout": {
+    "title": "Pago",
+    "subtitle": "Completa tu pedido de forma segura",
+    "form": {
+      "email": "Correo Electrónico",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "phone": "Teléfono",
+      "fullName": "Nombre Completo",
+      "fullNamePlaceholder": "Juan Pérez",
+      "streetAddress": "Dirección",
+      "streetAddressPlaceholder": "Calle Principal 123",
+      "city": "Ciudad",
+      "cityPlaceholder": "Ciudad del Cabo",
+      "postalCode": "Código Postal",
+      "postalCodePlaceholder": "10001",
+      "country": "País",
+      "selectCountry": "Seleccionar país",
+      "deliveryAddress": "Dirección de Entrega",
+      "selectAddress": "Seleccionar una dirección"
+    },
+    "steps": {
+      "address": "Dirección",
+      "payment": "Pago",
+      "review": "Revisión"
+    },
+    "preferences": {
+      "title": "Preferencias",
+      "subtitle": "Personaliza tu experiencia de pago",
+      "saveAddress": "Guardar esta dirección para pedidos futuros",
+      "addressBenefit": "Pago rápido en tu próximo pedido",
+      "paymentMethodBenefit": "Guardar de forma segura para pagos más rápidos",
+      "savePaymentMethod": "Guardar este método de pago para compras futuras",
+      "infoBanner": "Tu información está encriptada y almacenada de forma segura. Puedes administrar los datos guardados en la configuración de tu cuenta."
+    },
+    "actions": {
+      "continue": "Continuar al Pago",
+      "payNow": "Pagar Ahora"
+    },
+    "processing": "Procesando...",
+    "trustMessage": "🔒 Tu información de pago está encriptada y segura",
+    "termsNote": "Al realizar tu pedido, aceptas nuestros Términos y Condiciones y Política de Privacidad"
+  },
+
+  "order": {
+    "success": {
+      "created": "Pedido creado. Proceder al pago.",
+      "shippingUpdated": "Detalles de envío actualizados",
+      "title": "Pedido confirmado",
+      "description": "Gracias por comprar con nosotros. Tu pedido se ha realizado exitosamente.",
+      "orderNumberLabel": "Número de pedido",
+      "emailNotice": "Se te enviará un correo de confirmación en breve.",
+      "actions": {
+        "copyOrderNumber": "Copiar número de pedido",
+        "copyTrackingLink": "Copiar enlace de seguimiento",
+        "trackOrder": "Rastrear pedido",
+        "continueShopping": "Continuar comprando"
+      }
+    },
+    "labels": {
+      "subtotal": "Subtotal",
+      "shipping": "Envío",
+      "tax": "Impuesto",
+      "total": "Total",
+      "add": "Agregar",
+      "free": "GRATIS",
+      "secureCheckout": "Pago seguro",
+      "freeReturns": "Devoluciones gratis dentro de 30 días",
+      "247Support": "Soporte al cliente 24/7"
+    },
+    "errors": {
+      "invalidCart": "Tu carrito ya no es válido",
+      "outOfStock": "Algunos artículos están agotados",
+      "notFound": "Pedido no encontrado",
+      "generic": "No se pudo completar el pedido"
+    },
+    "track": {
+      "title": "Rastrear Tu Pedido",
+      "subtitle": "Ingresa tu número de pedido para verificar el estado y progreso de entrega",
+
+      "form": {
+        "label": "Número de Pedido",
+        "placeholder": "ej., KBC-1A2B3C4D",
+        "helper": "Puedes encontrar tu número de pedido en el correo de confirmación que te enviamos",
+        "submit": "Rastrear Pedido"
+      },
+      "orderSummary": {
+        "title": "Resumen del Pedido",
+        "items": {
+          "one": "{{count}} artículo",
+          "other": "{{count}} artículos"
+        },
+        "total": "Total"
+      },
+
+      "help": {
+        "title": "¿Necesitas Ayuda?",
+        "emailHint": "Los números de pedido se envían a tu correo inmediatamente después de la compra",
+        "accountHint": "Si tienes una cuenta, también puedes ver tus pedidos en",
+        "accountLink": "Mi Cuenta",
+        "contactHint": "¿No encuentras tu pedido?",
+        "contactLink": "Contactar soporte"
+      }
+    }
+  },
+
+  "auth": {
+    "success": {
+      "registered": "Cuenta creada exitosamente 🎉",
+      "loggedIn": "Bienvenido de nuevo 👋",
+      "loggedOut": "Sesión cerrada exitosamente",
+      "resetSent": "Enlace de restablecimiento enviado. Revisa tu correo 📧",
+      "passwordReset": "Restablecimiento de contraseña exitoso. Ahora puedes iniciar sesión."
+    },
+    "errors": {
+      "invalidCredentials": "Correo o contraseña inválidos",
+      "invalidEmail": "Dirección de correo inválida",
+      "notFound": "Cuenta no encontrada",
+      "generic": "Autenticación fallida"
+    },
+    "login": {
+      "title": "Mi Cuenta",
+      "subtitle": "Inicia sesión o crea una cuenta",
+
+      "signIn": {
+        "title": "Iniciar Sesión",
+        "welcome": "¡Bienvenido de nuevo! Por favor ingresa tus datos",
+        "emailLabel": "Correo Electrónico",
+        "emailPlaceholder": "tu@ejemplo.com",
+        "passwordLabel": "Contraseña",
+        "passwordPlaceholder": "••••••••",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "submit": "Iniciar Sesión",
+        "loading": "Iniciando sesión..."
+      },
+
+      "newCustomer": {
+        "title": "¿Nuevo Cliente?",
+        "description": "Crea una cuenta para disfrutar de un pago más rápido, rastrear tus pedidos y acceder a beneficios exclusivos.",
+        "benefits": {
+          "trackOrders": "Rastrea tus pedidos en tiempo real",
+          "saveAddresses": "Guarda direcciones para un pago más rápido",
+          "orderHistory": "Accede a tu historial completo de pedidos"
+        },
+        "cta": "Crear una Cuenta"
+      }
+    },
+    "register": {
+      "title": "Crear una Cuenta",
+      "subtitle": "Únete a nosotros y comienza tu viaje de compras",
+
+      "form": {
+        "firstName": {
+          "label": "Nombre",
+          "placeholder": "Juan"
+        },
+        "lastName": {
+          "label": "Apellido",
+          "placeholder": "Pérez"
+        },
+        "email": {
+          "label": "Correo Electrónico",
+          "placeholder": "tu@ejemplo.com"
+        },
+        "password": {
+          "label": "Contraseña",
+          "placeholder": "••••••••",
+          "hint": "Mínimo 8 caracteres"
+        }
+      },
+
+      "submit": {
+        "default": "Crear Cuenta",
+        "loading": "Creando cuenta..."
+      },
+
+      "footer": {
+        "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+        "signIn": "Inicia sesión aquí"
+      }
+    },
+
+    "forgotPassword": {
+      "title": "Olvidé mi Contraseña",
+      "subtitle": "Te enviaremos un enlace de restablecimiento si tu correo existe",
+
+      "form": {
+        "email": {
+          "label": "Correo Electrónico",
+          "placeholder": "tu@ejemplo.com"
+        }
+      },
+
+      "submit": {
+        "default": "Enviar Enlace de Restablecimiento",
+        "loading": "Enviando..."
+      },
+
+      "backToLogin": "Volver a iniciar sesión",
+
+      "success": {
+        "title": "Revisa tu bandeja de entrada",
+        "description": "Si existe una cuenta para {{email}}, recibirás un enlace de restablecimiento de contraseña en breve.",
+        "cta": "Volver al Inicio de Sesión"
+      }
+    },
+    "unauthenticatedState": {
+      "title": "Autenticación Requerida",
+      "description": "Inicia sesión para acceder a esta función y disfrutar de una experiencia de compra personalizada"
+    },
+    "resetPassword": {
+      "title": "Restablecer tu contraseña",
+      "subtitle": "Introduce una nueva contraseña para recuperar el acceso a tu cuenta.",
+      "newPassword": "Nueva contraseña",
+      "confirmPassword": "Confirmar nueva contraseña",
+      "submit": "Restablecer contraseña",
+      "invalidOrExpired": "Este enlace de restablecimiento no es válido o ha expirado."
+    }
+  },
+
+  "profile": {
+    "success": {
+      "updated": "Perfil actualizado exitosamente",
+      "deactivated": "Tu cuenta ha sido desactivada"
+    },
+    "errors": {
+      "generic": "No se pudo actualizar tu perfil",
+      "loginPrompt": "Por favor inicia sesión para ver tu perfil"
+    },
+    "navigation": {
+      "profile": "Perfil",
+      "orders": "Pedidos",
+      "addresses": "Direcciones",
+      "payment": "Pago",
+      "settings": "Configuración"
+    },
+
+    "overview": {
+      "greeting": "Hola, {{name}}",
+      "memberSince": "Miembro desde {{year}} · Resumen de cuenta",
+
+      "stats": {
+        "totalOrders": "Pedidos Totales",
+        "activeOrders": "Pedidos Activos",
+        "recentOrders": "Pedidos Recientes",
+        "delivered": "Entregados",
+        "totalSpent": "Total Gastado",
+        "ordersThisMonth": "Pedidos Este Mes",
+        "savedAddresses": "Direcciones Guardadas",
+        "paymentMethods": "Métodos de Pago",
+        "noOrders": "Sin pedidos aún"
+      }
+    },
+
+    "orders": {
+      "title": "Historial de Pedidos",
+      "preview": "Vista Previa del Pedido",
+      "shippingAddress": "Dirección de Envío",
+      "orderTimeline": "Línea de Tiempo del Pedido",
+      "subtitle": {
+        "one": "{{count}} pedido · Rastrea y administra tus compras",
+        "other": "{{count}} pedidos · Rastrea y administra tus compras"
+      },
+
+      "searchPlaceholder": "Buscar número de pedido...",
+      "filterAll": "Todos los Estados",
+
+      "order": {
+        "items": {
+          "one": "{{count}} artículo",
+          "other": "{{count}} artículos"
+        },
+        "orderTotal": "Total del pedido",
+        "orderDetails": "Detalles del Pedido"
+      },
+      "actions": {
+        "viewOrder": "Ver Pedido",
+        "viewDetails": "Ver Detalles",
+        "viewReceipt": "Ver Recibo",
+        "searchOrder": "Buscar número de pedido..",
+        "copyOrderNumber": "Copiar número de pedido",
+        "filterByStatus": "Filtrar por estado",
+        "retryPayment": "Reintentar Pago"
+      },
+
+      "status": {
+        "confirmed": "Confirmado",
+        "pending": "Pendiente",
+        "cancelled": "Cancelado",
+        "refunded": "Reembolsado"
+      },
+      "empty": {
+        "title": "No se encontraron pedidos",
+        "orderNotFound": "Pedido no encontrado",
+        "description": "Intenta ajustar tu búsqueda o filtros"
+      }
+    },
+
+    "addresses": {
+      "title": "Direcciones Guardadas",
+      "addresses": {
+        "one": "{{count}} dirección",
+        "other": "{{count}} direcciones"
+      },
+      "empty": {
+        "title": "Sin direcciones guardadas aún",
+        "description": "Agrega tu primera dirección de envío",
+        "cta": "Agregar Dirección"
+      },
+      "form": {
+        "fullName": "Nombre Completo del Destinatario",
+        "company": "Empresa (opcional)",
+        "streetAddress": "Dirección",
+        "apartment": "Apartamento, suite, etc. (opcional)",
+        "city": "Ciudad",
+        "state": "Estado / Provincia / Región",
+        "postalCode": "Código postal",
+        "country": "País",
+        "phone": "Número de Teléfono",
+        "setAsDefault": "Establecer como dirección predeterminada",
+        "actions": {
+          "save": "Guardar Dirección",
+          "cancel": "Cancelar",
+          "update": "Actualizar Dirección"
+        }
+      },
+
+      "default": "Predeterminada",
+
+      "actions": {
+        "edit": "Editar",
+        "editAddress": "Editar Dirección",
+        "cancelEdit": "Cancelar Edición",
+        "delete": "Eliminar",
+        "addNew": "Agregar Nueva",
+        "setDefault": "Establecer Predeterminada",
+        "toggleForm": "Alternar formulario de dirección",
+        "addNewAddress": "Agregar Nueva Dirección",
+        "confirmDelete": "¿Estás seguro de que quieres eliminar esta dirección?"
+      }
+    },
+
+    "payment": {
+      "title": "Métodos de Pago",
+      "noPaymentMethods": "No hay métodos de pago guardados",
+      "addNew": "Agrega un método de pago para un pago más rápido",
+      "billingInfo": "Información de Facturación",
+      "bilingName": "Nombre de Facturación",
+      "billingCountry": "País de Facturación",
+      "billingNamePlaceholder": "Juan Pérez",
+      "card": {
+        "expires": "Vence el {{date}}",
+        "default": "Predeterminada"
+      },
+
+      "actions": {
+        "edit": "Editar",
+        "save": "Guardar",
+        "setDefault": "Establecer Predeterminada",
+        "cancelEdit": "Cancelar Edición",
+        "remove": "Eliminar Método de Pago"
+      }
+    },
+
+    "settings": {
+      "title": "Configuración de Cuenta",
+      "personalInfo": {
+        "title": "Información Personal",
+        "description": "Administra los detalles de tu cuenta e información de contacto",
+        "name": "Nombre Completo",
+        "email": "Correo Electrónico",
+        "phone": "Número de Teléfono",
+        "updateInfo": "Actualizar Información",
+        "notSet": "No establecido",
+        "memberSince": "Miembro Desde"
+      },
+      "security": {
+        "title": "Seguridad",
+        "currentPassword": "Contraseña Actual",
+        "newPassword": "Nueva Contraseña",
+        "confirmNewPassword": "Confirmar Nueva Contraseña",
+        "passwordHint": "Mínimo 8 caracteres",
+        "updatePassword": "Actualizar Contraseña",
+        "allFieldsRequired": "Por favor, completa todos los campos de contraseña.",
+        "passwordsDoNotMatch": "La nueva contraseña y la confirmación no coinciden."
+      },
+
+      "notifications": {
+        "title": "Notificaciones",
+
+        "orderUpdates": {
+          "label": "Actualizaciones de Pedidos",
+          "description": "Recibe notificaciones sobre el estado de tu pedido y entrega"
+        },
+
+        "promotions": {
+          "label": "Promociones y Ofertas",
+          "description": "Recibe ofertas exclusivas y acceso anticipado a ventas"
+        },
+
+        "newsletter": {
+          "label": "Boletín",
+          "description": "Actualizaciones semanales sobre nuevos productos y tendencias"
+        },
+
+        "securityAlerts": {
+          "label": "Alertas de Seguridad",
+          "description": "Notificaciones importantes sobre seguridad de la cuenta"
+        }
+      },
+
+      "dangerZone": {
+        "title": "Zona de Peligro",
+        "description": "Elimina permanentemente tu cuenta y todos los datos asociados. Esta acción no se puede deshacer.",
+        "deleteAccount": "Eliminar Cuenta",
+        "confirmDeactivate": "¿Estás seguro de que deseas desactivar tu cuenta?"
+      },
+      "actions": {
+        "updatePassword": "Actualizar Contraseña",
+        "deleteAccount": "Eliminar Cuenta",
+        "saveChanges": "Guardar Cambios",
+        "cancel": "Cancelar",
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "editProfile": "Editar Perfil",
+        "changePassword": "Cambiar Contraseña",
+        "update": "Actualizar"
+      }
+    }
+  },
+
+  "footer": {
+    "tagline": "Eleva tu estilo con moda premium. Descubre colecciones curadas que definen la elegancia moderna.",
+    "securePayment": "Pago seguro",
+    "newsletter": {
+      "title": "Boletín",
+      "description": "Obtén 20% de descuento en tu primer pedido. Suscríbete para ofertas exclusivas.",
+      "emailPlaceholder": "Ingresa tu correo",
+      "subscribe": "Suscribirse",
+      "success": "¡Suscrito exitosamente al boletín!",
+      "invalidEmail": "Por favor ingresa un correo válido",
+      "privacy": "Respetamos tu privacidad. Cancela tu suscripción en cualquier momento."
+    },
+    "links": {
+      "shop": "Tienda",
+      "customerService": "Servicio al Cliente",
+      "company": "Empresa",
+      "helpCenter": "Centro de Ayuda",
+      "careers": "Carreras",
+      "sustainability": "Sostenibilidad"
+    },
+    "legal": {
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfService": "Términos de Servicio",
+      "copyright": "Todos los derechos reservados"
+    }
+  },
+  "collections": {
+    "header": {
+      "filters": "Filtros",
+      "clearAll": "Limpiar Todo",
+      "products": {
+        "one": "producto",
+        "other": "productos"
+      },
+      "sort": {
+        "newestMobile": "Más Recientes",
+        "priceLow": "Precio: Menor a Mayor",
+        "priceHigh": "Precio: Mayor a Menor",
+        "popular": "Más Popular",
+        "rating": "Mejor Calificados"
+      },
+      "view": {
+        "grid": "Cuadrícula",
+        "list": "Lista",
+        "gridView": "Vista cuadrícula",
+        "listView": "Vista lista"
+      }
+    },
+    "filters": {
+      "categories": "Categorías",
+      "sizes": "Tallas",
+      "colors": "Colores",
+      "productType": "Tipo de Producto",
+      "availability": "Disponibilidad",
+      "inStockOnly": "Solo en Stock",
+      "outOfStock": "Agotado",
+      "priceRange": "Rango de Precio",
+      "applyFilters": "Aplicar Filtros",
+      "resetFilters": "Restablecer Filtros",
+      "closeFilters": "Cerrar filtros",
+      "openFilters": "Abrir filtros"
+    },
+    "hero": {
+      "allCollections": "Todas las Colecciones",
+      "fallbackDescription": "Explora nuestra selección completa de estilos premium, productos curados y nuevos productos."
+    },
+    "empty": {
+      "title": "Categoría no encontrada",
+      "description": "La colección que buscas no existe."
+    }
+  },
+
+  "search": {
+    "title": "Buscar",
+    "closeSearch": "Cerrar búsqueda",
+    "placeholder": "Buscar productos, categorías...",
+    "recentSearches": "Búsquedas Recientes",
+    "removeFromHistory": "Eliminar del historial",
+    "results": {
+      "one": "Resultado",
+      "other": "Resultados"
+    },
+    "noResults": {
+      "title": "No se encontraron resultados",
+      "description": "Intenta con diferentes palabras clave o verifica la ortografía"
+    }
+  }
+}

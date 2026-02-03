@@ -1,0 +1,836 @@
+{
+  "hero": {
+    "eyebrow": "Iqoqo Elisha",
+    "title": {
+      "line1": "Senza",
+      "line2": "Izinyathelo Ezinamandla"
+    },
+    "subtitle": "Thuthukisa iwardrobe yakho ngezitayela ezihlukahlukene. Thola amathrendi akamuva emfashini futhi uveze isitayela sakho esiyingqayizivele.",
+    "scrollDown": "Skrola",
+    "trustBadges": {
+      "premiumQuality": "Ikhwalithi Ephezulu",
+      "freeShipping": "Ukuthumela Mahhala",
+      "easyReturns": "Ukubuyisela Okulula"
+    }
+  },
+
+  "sections": {
+    "newArrivals": {
+      "title": "Okufike Kamuva"
+    },
+    "bestSellers": {
+      "title": "Okuthengiswa Kakhulu",
+      "description": "Izinto zethu ezithandwa kakhulu, ezikhethwe amakhasimende anjengawe"
+    },
+    "trending": {
+      "title": "Okuthandwayo Manje"
+    },
+    "shopByCategories": {
+      "title": "Thenga Ngezigaba"
+    },
+    "shopByStyle": {
+      "title": "Thenga Ngesitayela",
+      "description": "Thola ukubukeka kwakho okuphelele. Kusuka ekunethezekeni okujwayelekile kuya ekuhloniphekeni okuhle."
+    },
+    "editorsPicks": {
+      "title": "Okukhethwe Abahleli",
+      "description": "Ukukhethwa okuqoqiwe okuchaza iwardrobe ebalulekile yale sizini"
+    },
+    "whyChooseUs": {
+      "title": "Kungani Ukhetha KBC Universe",
+      "description": "Thola ikhwalithi ephezulu nesevisi eyingqayizivele ngokuthenga ngakunye"
+    },
+    "testimonials": {
+      "title": "Okushiwo Amakhasimende Ethu",
+      "description": "Joyina izinkulungwane zamakhasimende anelisekile athemba KBC Universe"
+    }
+  },
+
+  "navigation": {
+    "primary": {
+      "home": "Ikhaya",
+      "shop": "Thenga",
+      "categories": "Izigaba",
+      "about": "Mayelana",
+      "contact": "Xhumana",
+      "menu": "Imenyu",
+      "collections": "Amaqoqo",
+      "trackOrder": "Landelela I-oda",
+      "sizeGuide": "Umhlahlandlela Wesayizi"
+    },
+    "shop": {
+      "men": "Thenga Amadoda",
+      "women": "Thenga Abesifazane",
+      "newArrivals": "Okufike Kamuva",
+      "bestSellers": "Okuthengiswa Kakhulu",
+      "clearance": "Ukusulwa",
+      "giftCards": "Amakhadi Ezipho"
+    },
+    "account": {
+      "account": "I-akhawunti",
+      "login": "Ngena",
+      "myAccount": "I-akhawunti Yami",
+      "myOrders": "Ama-oda Ami",
+      "logout": "Phuma"
+    },
+    "productViews": {
+      "grid": "Ukubuka Nge-Grid",
+      "list": "Ukubuka Ngohlu",
+      "quickView": "Ukubuka Ngokushesha",
+      "sizeGuide": "Umhlahlandlela Wesayizi"
+    },
+    "common": {
+      "viewAll": "Buka Konke",
+      "back": "Buyela Emuva",
+      "trackOrder": "Landelela I-oda",
+      "openMenu": "Vula imenyu",
+      "featured": "Okuvelele",
+      "allCategories": "Zonke Izigaba",
+      "quickLinks": "Izixhumanisi Ezisheshayo"
+    }
+  },
+
+  "common": {
+    "language": "Ulimi",
+    "currency": "Imali",
+    "search": "Sesha",
+    "searchPlaceholder": "Sesha imikhiqizo...",
+    "menu": "Imenyu",
+    "back": "Buyela Emuva",
+    "close": "Vala",
+    "loading": "Iyalayisha...",
+    "adding": "Iyengeza...",
+    "clearing": "Iyasula...",
+    "success": "Impumelelo",
+    "variant": "Uhlobo",
+    "quantity": "Inani",
+    "total": "Isamba",
+    "error": "Iphutha",
+    "color": "Umbala",
+    "size": "Usayizi",
+    "toggleSidebar": "Guqula ibha yaseceleni",
+    "toggleSearch": "Guqula ukusesha",
+    "toggleTheme": "Guqula itimu",
+    "startShopping": "Qala Ukuthenga",
+    "viewAll": "Buka Konke",
+    "all": "Konke",
+    "explore": "Hlola",
+    "exploreAll": "Hlola Konke",
+    "needHelp": "Udinga usizo?",
+    "items": {
+      "singular": "into",
+      "plural": "izinto"
+    }
+  },
+
+  "cart": {
+    "title": "Itroli",
+    "shoppingTitle": "Itroli Yokuthenga",
+    "empty": {
+      "title": "Itroli yakho ayinalutho",
+      "description": "Kubonakala sengathi awukangezi lutho okwamanje. Qala ukuthenga ukuze ugcwalise itroli yakho!"
+    },
+    "labels": {
+      "product": "Umkhiqizo",
+      "quantity": "Inani",
+      "subtotal": "Isamba Esincane",
+      "tax": "Intela (isilinganiso)",
+      "shipping": "Ukuthumela",
+      "total": "Isamba"
+    },
+    "actions": {
+      "add": "Engeza Etrolini",
+      "remove": "Susa",
+      "clear": "Sula Itroli",
+      "checkout": "Qhubeka Nokukhokha",
+      "viewCart": "Buka Itroli",
+      "continueShopping": "Qhubeka Nokuthenga"
+    },
+    "notes": {
+      "form": {
+        "label": "Inothi Ye-oda",
+        "placeholder": "Inothi Ye-oda"
+      },
+      "secureCheckout": "Ukukhokha okuphephile",
+      "freeShipping": "Ukulethwa mahhala kuma-oda angaphezu kuka-$120. Ungaphuthelwa.",
+      "support": "Ukusekelwa kwamakhasimende 24/7",
+      "shippingCalculated": "Kubalwa lapho ukhokhayo"
+    },
+    "success": {
+      "added": "Izinto zengezwe etrolini yakho",
+      "quantityUpdated": "Inani libuyekeziwe",
+      "removed": "Into isusiwe etrolini",
+      "cleared": "Itroli yakho manje ayinalutho"
+    },
+    "errors": {
+      "stockLimit": "Akukho stock eyanele yale nto",
+      "invalidVariant": "Sicela ukhethe usayizi nombala ovumelekile",
+      "conflict": "Itroli yakho ibuyekeziwe kwenye indawo. Sicela uzame futhi",
+      "generic": "Kukhona okungahambi kahle ekubuyekeza itroli yakho"
+    }
+  },
+
+  "wishlist": {
+    "title": "Uhlu Lwezifiso",
+    "shoppingTitle": "Uhlu Lwezifiso Zokuthenga",
+    "empty": {
+      "title": "Uhlu lwakho lwezifiso alunalutho",
+      "description": "Gcina izinto zakho ozithandayo lapha futhi ubuyele kuzo noma nini!"
+    },
+    "actions": {
+      "add": "Engeza ohlwini lwezifiso",
+      "remove": "Susa ohlwini lwezifiso",
+      "clear": "Sula Uhlu Lwezifiso",
+      "viewAll": "Buka Zonke Izinto Zohlwini Lwezifiso",
+      "continueShopping": "Qhubeka Nokuthenga"
+    },
+    "success": {
+      "added": "Yengezwe ohlwini lwezifiso",
+      "removed": "Isusiwe ohlwini lwezifiso",
+      "updated": "Uhlu lwezifiso lubuyekeziwe",
+      "cleared": "Uhlu lwezifiso lususiwe"
+    },
+    "errors": {
+      "notFound": "Into ayitholakali ohlwini lwezifiso",
+      "generic": "Ayikwazanga ukubuyekeza uhlu lwezifiso"
+    }
+  },
+
+  "product": {
+    "labels": {
+      "sale": "Ukuthengisa",
+      "color": "Umbala",
+      "size": "Usayizi",
+      "quantity": "Inani",
+      "recommended": "Imikhiqizo Enconyiwe"
+    },
+    "actions": {
+      "quickShop": "Thenga Ngokushesha",
+      "quickView": "Buka Ngokushesha",
+      "viewDetails": "Buka Imininingwane"
+    },
+    "stock": {
+      "inStock": "Iyatholakala",
+      "inStockReady": "Iyatholakala — Ikulungele ukuthunyelwa",
+      "lowStock": "Kusele {{count}} kuphela — Kuyathengiswa ngokushesha!",
+      "outOfStock": "Ayisekho"
+    },
+    "tabs": {
+      "description": "Incazelo Yomkhiqizo",
+      "shipping": "Ukuthumela Nokubuyisela",
+      "general": "Okuvamile"
+    },
+    "empty": {
+      "noProductsFound": "Ayikho imikhiqizo etholakalayo"
+    },
+    "sizeChart": {
+      "title": "Ishadi Yesayizi",
+      "units": {
+        "in": "Ama-inshi",
+        "cm": "Amasentimitha"
+      },
+      "columns": {
+        "size": "Usayizi",
+        "length": "Ubude",
+        "chest": "Isifuba"
+      },
+      "women": {
+        "title": "Ishadi Yesayizi Yabesifazane",
+        "rows": [
+          {
+            "size": "XS",
+            "length": { "in": "23–25", "cm": "58–60" },
+            "chest": { "in": "14–16", "cm": "36–38" }
+          },
+          {
+            "size": "S",
+            "length": { "in": "24–26", "cm": "60–62" },
+            "chest": { "in": "16–18", "cm": "40–42" }
+          },
+          {
+            "size": "M",
+            "length": { "in": "25–27", "cm": "63–65" },
+            "chest": { "in": "18–20", "cm": "45–47" }
+          },
+          {
+            "size": "L",
+            "length": { "in": "26–28", "cm": "66–68" },
+            "chest": { "in": "20–22", "cm": "50–52" }
+          },
+          {
+            "size": "XL",
+            "length": { "in": "27–29", "cm": "69–71" },
+            "chest": { "in": "22–24", "cm": "55–57" }
+          },
+          {
+            "size": "XXL",
+            "length": { "in": "28–30", "cm": "72–74" },
+            "chest": { "in": "24–26", "cm": "60–62" }
+          },
+          {
+            "size": "XXXL",
+            "length": { "in": "29–31", "cm": "75–77" },
+            "chest": { "in": "26–28", "cm": "65–67" }
+          }
+        ]
+      },
+      "men": {
+        "title": "Ishadi Yesayizi Yamadoda",
+        "rows": [
+          {
+            "size": "XS",
+            "length": { "in": "25–27", "cm": "64–66" },
+            "chest": { "in": "32–34", "cm": "81–86" }
+          },
+          {
+            "size": "S",
+            "length": { "in": "26–28", "cm": "66–68" },
+            "chest": { "in": "34–36", "cm": "86–91" }
+          },
+          {
+            "size": "M",
+            "length": { "in": "27–29", "cm": "70–72" },
+            "chest": { "in": "38–40", "cm": "96–101" }
+          },
+          {
+            "size": "L",
+            "length": { "in": "29–31", "cm": "75–77" },
+            "chest": { "in": "42–44", "cm": "106–111" }
+          },
+          {
+            "size": "XL",
+            "length": { "in": "30–32", "cm": "77–79" },
+            "chest": { "in": "46–48", "cm": "116–121" }
+          },
+          {
+            "size": "XXL",
+            "length": { "in": "32–34", "cm": "82–84" },
+            "chest": { "in": "50–52", "cm": "126–132" }
+          },
+          {
+            "size": "XXXL",
+            "length": { "in": "34–36", "cm": "87–89" },
+            "chest": { "in": "54–56", "cm": "137–142" }
+          }
+        ]
+      }
+    }
+  },
+
+  "checkout": {
+    "title": "Ukukhokha",
+    "subtitle": "Qedela i-oda lakho ngokuphephile",
+    "form": {
+      "email": "I-imeyili",
+      "emailPlaceholder": "wena@isibonelo.com",
+      "phone": "Ifoni",
+      "fullName": "Igama Eliphelele",
+      "fullNamePlaceholder": "John Doe",
+      "streetAddress": "Ikheli Lasemgwaqeni",
+      "streetAddressPlaceholder": "123 Main Street",
+      "city": "Idolobha",
+      "cityPlaceholder": "Cape Town",
+      "postalCode": "Ikhodi Yeposi",
+      "postalCodePlaceholder": "10001",
+      "country": "Izwe",
+      "selectCountry": "Khetha izwe",
+      "deliveryAddress": "Ikheli Lokulethwa",
+      "selectAddress": "Khetha ikheli"
+    },
+    "steps": {
+      "address": "Ikheli",
+      "payment": "Inkokhelo",
+      "review": "Ukubuyekeza"
+    },
+    "preferences": {
+      "title": "Okuthandayo",
+      "subtitle": "Lungiselela isipiliyoni sakho sokukhokha",
+      "saveAddress": "Gcina leli kheli lama-oda ezayo",
+      "addressBenefit": "Ukukhokha ngokushesha ku-oda lakho elilandelayo",
+      "paymentMethodBenefit": "Gcina ngokuphephile ukuze ukhokhele ngokushesha",
+      "savePaymentMethod": "Gcina le ndlela yokukhokha yamathengiso azayo",
+      "infoBanner": "Imininingwane yakho ibethelwe futhi igcinwe ngokuphephile. Ungaphatha idatha egciniwe ezilungiselelweni ze-akhawunti yakho."
+    },
+    "actions": {
+      "continue": "Qhubeka Nokukhokha",
+      "payNow": "Khokha Manje"
+    },
+    "processing": "Iyacubungula...",
+    "trustMessage": "🔒 Imininingwane yakho yokukhokha ibethelwe futhi iphephile",
+    "termsNote": "Ngokubeka i-oda lakho, uyavuma Izimo Zethu Nezimiso Zobumfihlo"
+  },
+
+  "order": {
+    "success": {
+      "created": "I-oda lidalwe. Qhubeka nokukhokha.",
+      "shippingUpdated": "Imininingwane yokuthumela ibuyekeziwe",
+      "title": "I-oda liqinisekisiwe",
+      "description": "Siyabonga ngokuthenga nathi. I-oda lakho libekwe ngempumelelo.",
+      "orderNumberLabel": "Inombolo ye-oda",
+      "emailNotice": "I-imeyili yokuqinisekisa izothunyelwa kuwe maduze.",
+      "actions": {
+        "copyOrderNumber": "Kopisha inombolo ye-oda",
+        "copyTrackingLink": "Kopisha isixhumanisi sokulandelela",
+        "trackOrder": "Landelela i-oda",
+        "continueShopping": "Qhubeka nokuthenga"
+      }
+    },
+    "labels": {
+      "subtotal": "Isamba Esincane",
+      "shipping": "Ukuthumela",
+      "tax": "Intela",
+      "total": "Isamba",
+      "add": "Engeza",
+      "free": "MAHHALA",
+      "secureCheckout": "Ukukhokha okuphephile",
+      "freeReturns": "Ukubuyisela mahhala ezinsukwini ezingu-30",
+      "247Support": "Ukusekelwa kwamakhasimende 24/7"
+    },
+    "errors": {
+      "invalidCart": "Itroli yakho ayisavumelekile",
+      "outOfStock": "Ezinye izinto azisekho",
+      "notFound": "I-oda alitholakali",
+      "generic": "Ayikwazanga ukuqedela i-oda"
+    },
+    "track": {
+      "title": "Landelela I-oda Lakho",
+      "subtitle": "Faka inombolo ye-oda lakho ukuze ubheke isimo nenqubekela yokulethwa",
+
+      "form": {
+        "label": "Inombolo Ye-oda",
+        "placeholder": "isib., KBC-1A2B3C4D",
+        "helper": "Ungathola inombolo ye-oda lakho ku-imeyili yokuqinisekisa esikuthumele yona",
+        "submit": "Landelela I-oda"
+      },
+      "orderSummary": {
+        "title": "Isifinyezo Se-oda",
+        "items": {
+          "one": "{{count}} into",
+          "other": "{{count}} izinto"
+        },
+        "total": "Isamba"
+      },
+
+      "help": {
+        "title": "Udinga Usizo?",
+        "emailHint": "Izinombolo zama-oda zithunyelwa ku-imeyili yakho ngokushesha ngemuva kokuthenga",
+        "accountHint": "Uma une-akhawunti, ungabuka futhi ama-oda akho ku",
+        "accountLink": "I-akhawunti Yami",
+        "contactHint": "Awutholi i-oda lakho?",
+        "contactLink": "Xhumana nokusekelwa"
+      }
+    }
+  },
+
+  "auth": {
+    "success": {
+      "registered": "I-akhawunti idalwe ngempumelelo 🎉",
+      "loggedIn": "Siyakwamukela 👋",
+      "loggedOut": "Uphume ngempumelelo",
+      "resetSent": "Isixhumanisi sokusetha kabusha sithunyelwe. Bheka i-imeyili yakho 📧",
+      "passwordReset": "Iphasiwedi isethwe kabusha ngempumelelo. Ungangena manje."
+    },
+    "errors": {
+      "invalidCredentials": "I-imeyili noma iphasiwedi engavumelekile",
+      "invalidEmail": "Ikheli le-imeyili elingavumelekile",
+      "notFound": "I-akhawunti ayitholakali",
+      "generic": "Ukuqinisekisa kuhlulekile"
+    },
+    "login": {
+      "title": "I-akhawunti Yami",
+      "subtitle": "Ngena noma udale i-akhawunti",
+
+      "signIn": {
+        "title": "Ngena",
+        "welcome": "Siyakwamukela! Sicela ufake imininingwane yakho",
+        "emailLabel": "Ikheli Le-imeyili",
+        "emailPlaceholder": "wena@isibonelo.com",
+        "passwordLabel": "Iphasiwedi",
+        "passwordPlaceholder": "••••••••",
+        "forgotPassword": "Ukhohlwe iphasiwedi?",
+        "submit": "Ngena",
+        "loading": "Iyangena..."
+      },
+
+      "newCustomer": {
+        "title": "Ikhasimende Elisha?",
+        "description": "Dala i-akhawunti ukuze ujabulele ukukhokha ngokushesha, ulandelele ama-oda akho, futhi ufinyelele izinzuzo ezikhethekile.",
+        "benefits": {
+          "trackOrders": "Landelela ama-oda akho ngesikhathi sangempela",
+          "saveAddresses": "Gcina amakheli ukuze ukhokhe ngokushesha",
+          "orderHistory": "Finyelela umlando wakho we-oda ophelele"
+        },
+        "cta": "Dala I-akhawunti"
+      }
+    },
+    "register": {
+      "title": "Dala I-akhawunti",
+      "subtitle": "Joyina nathi futhi uqale uhambo lwakho lokuthenga",
+
+      "form": {
+        "firstName": {
+          "label": "Igama Lokuqala",
+          "placeholder": "John"
+        },
+        "lastName": {
+          "label": "Isibongo",
+          "placeholder": "Doe"
+        },
+        "email": {
+          "label": "Ikheli Le-imeyili",
+          "placeholder": "wena@isibonelo.com"
+        },
+        "password": {
+          "label": "Iphasiwedi",
+          "placeholder": "••••••••",
+          "hint": "Okungenani izinhlamvu ezingu-8"
+        }
+      },
+
+      "submit": {
+        "default": "Dala I-akhawunti",
+        "loading": "Iyakha i-akhawunti..."
+      },
+
+      "footer": {
+        "alreadyHaveAccount": "Usunayo i-akhawunti?",
+        "signIn": "Ngena lapha"
+      }
+    },
+
+    "forgotPassword": {
+      "title": "Ukhohlwe Iphasiwedi",
+      "subtitle": "Sizokuthumela isixhumanisi sokusetha kabusha uma i-imeyili yakho ikhona",
+
+      "form": {
+        "email": {
+          "label": "Ikheli Le-imeyili",
+          "placeholder": "wena@isibonelo.com"
+        }
+      },
+
+      "submit": {
+        "default": "Thumela Isixhumanisi Sokusetha Kabusha",
+        "loading": "Iyathumela..."
+      },
+
+      "backToLogin": "Buyela ekungeneni",
+
+      "success": {
+        "title": "Bheka ibhokisi lakho lokungenayo",
+        "description": "Uma i-akhawunti ikhona ku-{{email}}, uzothola isixhumanisi sokusetha kabusha iphasiwedi maduze.",
+        "cta": "Buyela Ekungeneni"
+      }
+    },
+    "unauthenticatedState": {
+      "title": "Ukuqinisekisa Kuyadingeka",
+      "description": "Ngena ukuze ufinyelele lesi sici futhi ujabulele isipiliyoni sokuthenga esiqondene nawe"
+    },
+    "resetPassword": {
+      "title": "Setha kabusha iphasiwedi yakho",
+      "subtitle": "Faka iphasiwedi entsha ukuze uthole ukufinyelela kabusha ku-akhawunti yakho.",
+      "newPassword": "Iphasiwedi entsha",
+      "confirmPassword": "Qinisekisa iphasiwedi entsha",
+      "submit": "Setha kabusha iphasiwedi",
+      "invalidOrExpired": "Lesi sixhumanisi sokusetha kabusha asivumelekile noma sesiphelelwe isikhathi."
+    }
+  },
+
+  "profile": {
+    "success": {
+      "updated": "Iphrofayili ibuyekeziwe ngempumelelo",
+      "deactivated": "I-akhawunti yakho ikhushazwe"
+    },
+    "errors": {
+      "generic": "Ayikwazanga ukubuyekeza iphrofayili yakho",
+      "loginPrompt": "Sicela ungene ukuze ubone iphrofayili yakho"
+    },
+    "navigation": {
+      "profile": "Iphrofayili",
+      "orders": "Ama-oda",
+      "addresses": "Amakheli",
+      "payment": "Inkokhelo",
+      "settings": "Izilungiselelo"
+    },
+
+    "overview": {
+      "greeting": "Sawubona, {{name}}",
+      "memberSince": "Ilungu kusukela ngo-{{year}} · Ukubuka kwe-akhawunti",
+
+      "stats": {
+        "totalOrders": "Ama-oda Ewonke",
+        "activeOrders": "Ama-oda Asebenzayo",
+        "recentOrders": "Ama-oda Akamuva",
+        "delivered": "Alethiwe",
+        "totalSpent": "Esichithwe Sonke",
+        "ordersThisMonth": "Ama-oda Alenyanga",
+        "savedAddresses": "Amakheli Agciniwe",
+        "paymentMethods": "Izindlela Zokukhokha",
+        "noOrders": "Awukho ama-oda okwamanje"
+      }
+    },
+
+    "orders": {
+      "title": "Umlando We-oda",
+      "preview": "Ukubuka Kwangaphambili Kwe-oda",
+      "shippingAddress": "Ikheli Lokuthumela",
+      "orderTimeline": "Isikhathi Se-oda",
+      "subtitle": {
+        "one": "i-oda elingu-{{count}} · Landelela futhi uphathe ukuthenga kwakho",
+        "other": "ama-oda angu-{{count}} · Landelela futhi uphathe ukuthenga kwakho"
+      },
+
+      "searchPlaceholder": "Sesha inombolo ye-oda...",
+      "filterAll": "Zonke Izimo",
+
+      "order": {
+        "items": {
+          "one": "into engu-{{count}}",
+          "other": "izinto ezingu-{{count}}"
+        },
+        "orderTotal": "Isamba se-oda",
+        "orderDetails": "Imininingwane Ye-oda"
+      },
+      "actions": {
+        "viewOrder": "Buka I-oda",
+        "viewDetails": "Buka Imininingwane",
+        "viewReceipt": "Buka Irisidi",
+        "searchOrder": "Sesha inombolo ye-oda..",
+        "copyOrderNumber": "Kopisha inombolo ye-oda",
+        "filterByStatus": "Hlunga ngesimo",
+        "retryPayment": "Zama Ukukhokha Futhi"
+      },
+
+      "status": {
+        "confirmed": "Kuqinisekisiwe",
+        "pending": "Kulindile",
+        "cancelled": "Kukhanshelwe",
+        "refunded": "Kubuyiselwe"
+      },
+      "empty": {
+        "title": "Awekho ama-oda atholakele",
+        "orderNotFound": "I-oda alitholakali",
+        "description": "Zama ukulungisa ukusesha kwakho noma izihlungi"
+      }
+    },
+
+    "addresses": {
+      "title": "Amakheli Agciniwe",
+      "addresses": {
+        "one": "ikheli elingu-{{count}}",
+        "other": "amakheli angu-{{count}}"
+      },
+      "empty": {
+        "title": "Awekho amakheli agciniwe okwamanje",
+        "description": "Engeza ikheli lakho lokuqala lokuthumela",
+        "cta": "Engeza Ikheli"
+      },
+      "form": {
+        "fullName": "Igama Eliphelele Lomamukeli",
+        "company": "Inkampani (ongakhetha)",
+        "streetAddress": "Ikheli Lasemgwaqeni",
+        "apartment": "Ifulethi, isuite, njll. (ongakhetha)",
+        "city": "Idolobha",
+        "state": "Isifundazwe / Isifundazwe / Isifunda",
+        "postalCode": "Ikhodi yeposi noma ye-ZIP",
+        "country": "Izwe",
+        "phone": "Inombolo Yefoni",
+        "setAsDefault": "Misa njengekheli elizenzakalelayo",
+        "actions": {
+          "save": "Gcina Ikheli",
+          "cancel": "Khansela",
+          "update": "Buyekeza Ikheli"
+        }
+      },
+
+      "default": "Okuzenzakalelayo",
+
+      "actions": {
+        "edit": "Hlela",
+        "editAddress": "Hlela Ikheli",
+        "cancelEdit": "Khansela Ukuhlela",
+        "delete": "Susa",
+        "addNew": "Engeza Okusha",
+        "setDefault": "Misa Okuzenzakalelayo",
+        "toggleForm": "Guqula ifomu lekheli",
+        "addNewAddress": "Engeza Ikheli Elisha",
+        "confirmDelete": "Uqinisekile ukuthi ufuna ukususa leli kheli?"
+      }
+    },
+
+    "payment": {
+      "title": "Izindlela Zokukhokha",
+      "noPaymentMethods": "Azikho izindlela zokukhokha ezigciniwe",
+      "addNew": "Engeza indlela yokukhokha ukuze ukhokhe ngokushesha",
+      "billingInfo": "Imininingwane Yokubhalisa",
+      "bilingName": "Igama Lokubhalisa",
+      "billingCountry": "Izwe Lokubhalisa",
+      "billingNamePlaceholder": "John Doe",
+      "card": {
+        "expires": "Iphelelwa {{date}}",
+        "default": "Okuzenzakalelayo"
+      },
+
+      "actions": {
+        "edit": "Hlela",
+        "save": "Gcina",
+        "setDefault": "Misa Okuzenzakalelayo",
+        "cancelEdit": "Khansela Ukuhlela",
+        "remove": "Susa Indlela Yokukhokha"
+      }
+    },
+
+    "settings": {
+      "title": "Izilungiselelo Ze-akhawunti",
+      "personalInfo": {
+        "title": "Imininingwane Yomuntu Siqu",
+        "description": "Phatha imininingwane ye-akhawunti yakho nemininingwane yokuxhumana",
+        "name": "Igama Eliphelele",
+        "email": "Ikheli Le-imeyili",
+        "phone": "Inombolo Yefoni",
+        "updateInfo": "Buyekeza Imininingwane",
+        "notSet": "Akamiswanga",
+        "memberSince": "Ilungu Kusukela"
+      },
+      "security": {
+        "title": "Ukuphepha",
+        "currentPassword": "Iphasiwedi Yamanje",
+        "newPassword": "Iphasiwedi Entsha",
+        "confirmNewPassword": "Qinisekisa Iphasiwedi Entsha",
+        "passwordHint": "Okungenani izinhlamvu ezingu-8",
+        "updatePassword": "Buyekeza Iphasiwedi",
+        "allFieldsRequired": "Sicela ugcwalise zonke izikhala zephasiwedi.",
+        "passwordsDoNotMatch": "Iphasiwedi entsha nokuqinisekisa akuhambisani."
+      },
+
+      "notifications": {
+        "title": "Izaziso",
+
+        "orderUpdates": {
+          "label": "Izibuyekezo Ze-oda",
+          "description": "Thola izaziso mayelana nesimo se-oda lakho nokulethwa"
+        },
+
+        "promotions": {
+          "label": "Ukukhangisa Neminikelo",
+          "description": "Thola izixazululo ezikhethekile nokufinyelela kwangaphambi kokuthengisa"
+        },
+
+        "newsletter": {
+          "label": "Incwadi Yezindaba",
+          "description": "Izibuyekezo zamasonto zonke mayelana nokufika okusha namathrendi"
+        },
+
+        "securityAlerts": {
+          "label": "Izexwayiso Zokuphepha",
+          "description": "Izaziso ezibalulekile mayelana nokuphepha kwe-akhawunti"
+        }
+      },
+
+      "dangerZone": {
+        "title": "Indawo Yengozi",
+        "description": "Susa i-akhawunti yakho unomphelo kanye nayo yonke imininingwane ehlobene. Lesi senzo asinakubuyiselwa emuva.",
+        "deleteAccount": "Susa I-akhawunti",
+        "confirmDeactivate": "¿Estás seguro de que deseas desactivar tu cuenta?"
+      },
+      "actions": {
+        "updatePassword": "Buyekeza Iphasiwedi",
+        "deleteAccount": "Susa I-akhawunti",
+        "saveChanges": "Gcina Izinguquko",
+        "cancel": "Khansela",
+        "edit": "Hlela",
+        "delete": "Susa",
+        "editProfile": "Hlela Iphrofayili",
+        "changePassword": "Shintsha Iphasiwedi",
+        "update": "Buyekeza"
+      }
+    }
+  },
+
+  "footer": {
+    "tagline": "Phakamisa isitayela sakho ngemfashini ephezulu. Thola amaqoqo aqoqiwe achaza ubuhle besimanje.",
+    "securePayment": "Inkokhelo ephephile",
+    "newsletter": {
+      "title": "Incwadi Yezindaba",
+      "description": "Thola isaphulelo sika-20% ku-oda lakho lokuqala. Bhalisela iminikelo ekhethekile.",
+      "emailPlaceholder": "Faka i-imeyili yakho",
+      "subscribe": "Bhalisela",
+      "success": "Ubhalisele ngempumelelo encwadini yezindaba!",
+      "invalidEmail": "Sicela ufake i-imeyili evumelekile",
+      "privacy": "Siyahlonipha ubumfihlo bakho. Susa ukubhalisela noma nini."
+    },
+    "links": {
+      "shop": "Thenga",
+      "customerService": "Isevisi Yamakhasimende",
+      "company": "Inkampani",
+      "helpCenter": "Isikhungo Sosizo",
+      "careers": "Imisebenzi",
+      "sustainability": "Ukusimama"
+    },
+    "legal": {
+      "privacyPolicy": "Inqubomgomo Yobumfihlo",
+      "termsOfService": "Izimo Zesevisi",
+      "copyright": "Onke amalungelo agodliwe"
+    }
+  },
+  "collections": {
+    "header": {
+      "filters": "Izihlungi",
+      "clearAll": "Sula Konke",
+      "products": {
+        "one": "umkhiqizo",
+        "other": "imikhiqizo"
+      },
+      "sort": {
+        "newestMobile": "Okusha",
+        "priceLow": "Intengo: Ephansi Kuya Ephezulu",
+        "priceHigh": "Intengo: Ephezulu Kuya Ephansi",
+        "popular": "Okuthandwa Kakhulu",
+        "rating": "Okulinganiswa Kakhulu"
+      },
+      "view": {
+        "grid": "I-Grid",
+        "list": "Uhlu",
+        "gridView": "Ukubuka nge-grid",
+        "listView": "Ukubuka ngohlu"
+      }
+    },
+    "filters": {
+      "categories": "Izigaba",
+      "sizes": "Amasayizi",
+      "colors": "Imibala",
+      "productType": "Uhlobo Lomkhiqizo",
+      "availability": "Ukutholakala",
+      "inStockOnly": "Okukhona Kuphela",
+      "outOfStock": "Akusekho",
+      "priceRange": "Ibanga Lentengo",
+      "applyFilters": "Sebenzisa Izihlungi",
+      "resetFilters": "Setha Kabusha Izihlungi",
+      "closeFilters": "Vala izihlungi",
+      "openFilters": "Vula izihlungi"
+    },
+    "hero": {
+      "allCollections": "Onke Amaqoqo",
+      "fallbackDescription": "Hlola ukukhetha kwethu okugcwele kwezitayela eziphezulu, izinto eziqoqiwe, nezinto ezintsha."
+    },
+    "empty": {
+      "title": "Isigaba asitholakali",
+      "description": "Iqoqo olifunayo alitholakali."
+    }
+  },
+  "search": {
+    "title": "Sesha",
+    "closeSearch": "Vala ukusesha",
+    "placeholder": "Sesha imikhiqizo, izigaba...",
+    "recentSearches": "Ukusesha Kwakamuva",
+    "removeFromHistory": "Susa emlandweni",
+    "results": {
+      "one": "Umphumela",
+      "other": "Imiphumela"
+    },
+    "noResults": {
+      "title": "Awekho amaphumela atholakalayo",
+      "description": "Zama amagama ayinhloko ahlukile noma hlola ukupela"
+    }
+  }
+}

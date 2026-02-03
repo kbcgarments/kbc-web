@@ -1,0 +1,20 @@
+name: Build Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20.9.0
+      - run: rm -rf node_modules .next
+      - run: npm install
+      - run: npm run typecheck
+      - run: npm run build

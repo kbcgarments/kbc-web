@@ -1,0 +1,950 @@
+{
+  "hero": {
+    "eyebrow": "New Collection",
+    "title": {
+      "line1": "Making Bold",
+      "line2": "Moves"
+    },
+    "subtitle": "Upgrade your wardrobe with a variation of styles. Discover the latest trends in fashion and express your unique style.",
+    "scrollDown": "Scroll",
+    "trustBadges": {
+      "premiumQuality": "Premium Quality",
+      "freeShipping": "Free Shipping",
+      "easyReturns": "Easy Returns"
+    }
+  },
+
+  "sections": {
+    "newArrivals": {
+      "title": "New Arrivals"
+    },
+    "bestSellers": {
+      "title": "Best Sellers",
+      "description": "Our most-loved pieces, chosen by customers like you"
+    },
+    "trending": {
+      "title": "Trending Now"
+    },
+    "shopByCategories": {
+      "title": "Shop by Categories"
+    },
+    "shopByStyle": {
+      "title": "Shop by Style",
+      "description": "Find your perfect look. From casual comfort to elegant sophistication."
+    },
+    "editorsPicks": {
+      "title": "Editor's Picks",
+      "description": "Curated selections that define this season's essential wardrobe"
+    },
+    "whyChooseUs": {
+      "title": "Why Choose KBC Universe",
+      "description": "Experience premium quality and exceptional service with every purchase"
+    },
+    "testimonials": {
+      "title": "What Our Customers Say",
+      "description": "Join thousands of satisfied customers who trust KBC Universe"
+    }
+  },
+
+  "navigation": {
+    "primary": {
+      "home": "Home",
+      "shop": "Shop",
+      "categories": "Categories",
+      "about": "About",
+      "contact": "Contact",
+      "menu": "Menu",
+      "collections": "Collections",
+      "trackOrder": "Track Order",
+      "sizeGuide": "Size Guide"
+    },
+    "shop": {
+      "men": "Shop Men",
+      "women": "Shop Women",
+      "newArrivals": "New Arrivals",
+      "bestSellers": "Best Sellers",
+      "clearance": "Clearance",
+      "giftCards": "Gift Cards"
+    },
+    "account": {
+      "account": "Account",
+      "login": "Login",
+      "myAccount": "My Account",
+      "myOrders": "My Orders",
+      "logout": "Logout"
+    },
+    "productViews": {
+      "grid": "Grid",
+      "list": "List",
+      "quickView": "Quick View",
+      "sizeGuide": "Size Guide"
+    },
+    "common": {
+      "viewAll": "View All",
+      "back": "Back",
+      "trackOrder": "Track Order",
+      "openMenu": "Open menu",
+      "featured": "Featured",
+      "allCategories": "All Categories",
+      "quickLinks": "Quick Links"
+    }
+  },
+
+  "common": {
+    "language": "Language",
+    "currency": "Currency",
+    "search": "Search",
+    "searchPlaceholder": "Search products...",
+    "menu": "Menu",
+    "back": "Back",
+    "close": "Close",
+    "loading": "Loading...",
+    "adding": "Adding...",
+    "clearing": "Clearing...",
+    "success": "Success",
+    "variant": "Variant",
+    "quantity": "Quantity",
+    "total": "Total",
+    "error": "Error",
+    "color": "Color",
+    "size": "Size",
+    "toggleSidebar": "Toggle sidebar",
+    "toggleSearch": "Toggle search",
+    "toggleTheme": "Toggle theme",
+    "startShopping": "Start Shopping",
+    "purchased": "Purchased",
+    "viewAll": "View All",
+    "all": "All",
+    "explore": "Explore",
+    "exploreAll": "Explore All",
+    "needHelp": "Need help?",
+    "items": {
+      "singular": "item",
+      "plural": "items"
+    }
+  },
+
+  "cart": {
+    "title": "Cart",
+    "shoppingTitle": "Shopping Cart",
+    "empty": {
+      "title": "Your cart is empty",
+      "description": "Looks like you haven't added anything yet. Start shopping to fill your cart!"
+    },
+    "labels": {
+      "product": "Product",
+      "quantity": "Quantity",
+      "subtotal": "Subtotal",
+      "tax": "Tax (est.)",
+      "shipping": "Shipping",
+      "total": "Total"
+    },
+    "actions": {
+      "add": "Add to Cart",
+      "remove": "Remove",
+      "clear": "Clear Cart",
+      "checkout": "Proceed to Checkout",
+      "viewCart": "View Cart",
+      "continueShopping": "Continue Shopping"
+    },
+    "notes": {
+      "form": {
+        "label": "Order Note",
+        "placeholder": "Order Note"
+      },
+      "secureCheckout": "Secure checkout",
+      "freeShipping": "Free delivery on orders over $120. Don't miss.",
+      "support": "24/7 customer support",
+      "shippingCalculated": "Calculated at checkout"
+    },
+    "success": {
+      "added": "Items added to your cart",
+      "quantityUpdated": "Quantity updated",
+      "removed": "Item removed from cart",
+      "cleared": "Your cart is now empty"
+    },
+    "errors": {
+      "stockLimit": "Not enough stock available for this item",
+      "invalidVariant": "Please select a valid size and color",
+      "conflict": "Your cart was updated elsewhere. Please try again",
+      "generic": "Something went wrong while updating your cart"
+    }
+  },
+
+  "wishlist": {
+    "title": "Wishlist",
+    "shoppingTitle": "Shopping Wishlist",
+    "empty": {
+      "title": "Your wishlist is empty",
+      "description": "Save your favorite items here and come back to them anytime!"
+    },
+    "actions": {
+      "add": "Add to wishlist",
+      "remove": "Remove from wishlist",
+      "clear": "Clear Wishlist",
+      "viewAll": "View All Wishlist Items",
+      "continueShopping": "Continue Shopping"
+    },
+    "success": {
+      "added": "Added to wishlist",
+      "removed": "Removed from wishlist",
+      "updated": "Wishlist updated",
+      "cleared": "Wishlist cleared"
+    },
+    "errors": {
+      "notFound": "Item not found in wishlist",
+      "generic": "Could not update wishlist"
+    }
+  },
+
+  "product": {
+    "labels": {
+      "sale": "Sale",
+      "color": "Color",
+      "size": "Size",
+      "quantity": "Quantity",
+      "recommended": "Recommended Products"
+    },
+    "actions": {
+      "quickShop": "Quick Shop",
+      "quickView": "Quick View",
+      "viewDetails": "View Details"
+    },
+    "stock": {
+      "inStock": "In Stock",
+      "inStockReady": "In stock — Ready to ship",
+      "lowStock": "Only {{count}} left — Selling fast!",
+      "outOfStock": "Out of stock"
+    },
+    "tabs": {
+      "description": "Product Description",
+      "shipping": "Shipping & Returns",
+      "general": "General"
+    },
+    "empty": {
+      "noProductsFound": "No products found"
+    },
+    "sizeChart": {
+      "title": "Size Chart",
+      "units": {
+        "in": "Inches",
+        "cm": "Centimeters"
+      },
+      "columns": {
+        "size": "Size",
+        "length": "Length",
+        "chest": "Chest"
+      },
+      "women": {
+        "title": "Women's Size Chart",
+        "rows": [
+          {
+            "size": "XS",
+            "length": { "in": "23–25", "cm": "58–60" },
+            "chest": { "in": "14–16", "cm": "36–38" }
+          },
+          {
+            "size": "S",
+            "length": { "in": "24–26", "cm": "60–62" },
+            "chest": { "in": "16–18", "cm": "40–42" }
+          },
+          {
+            "size": "M",
+            "length": { "in": "25–27", "cm": "63–65" },
+            "chest": { "in": "18–20", "cm": "45–47" }
+          },
+          {
+            "size": "L",
+            "length": { "in": "26–28", "cm": "66–68" },
+            "chest": { "in": "20–22", "cm": "50–52" }
+          },
+          {
+            "size": "XL",
+            "length": { "in": "27–29", "cm": "69–71" },
+            "chest": { "in": "22–24", "cm": "55–57" }
+          },
+          {
+            "size": "XXL",
+            "length": { "in": "28–30", "cm": "72–74" },
+            "chest": { "in": "24–26", "cm": "60–62" }
+          },
+          {
+            "size": "XXXL",
+            "length": { "in": "29–31", "cm": "75–77" },
+            "chest": { "in": "26–28", "cm": "65–67" }
+          }
+        ]
+      },
+      "men": {
+        "title": "Men's Size Chart",
+        "rows": [
+          {
+            "size": "XS",
+            "length": { "in": "25–27", "cm": "64–66" },
+            "chest": { "in": "32–34", "cm": "81–86" }
+          },
+          {
+            "size": "S",
+            "length": { "in": "26–28", "cm": "66–68" },
+            "chest": { "in": "34–36", "cm": "86–91" }
+          },
+          {
+            "size": "M",
+            "length": { "in": "27–29", "cm": "70–72" },
+            "chest": { "in": "38–40", "cm": "96–101" }
+          },
+          {
+            "size": "L",
+            "length": { "in": "29–31", "cm": "75–77" },
+            "chest": { "in": "42–44", "cm": "106–111" }
+          },
+          {
+            "size": "XL",
+            "length": { "in": "30–32", "cm": "77–79" },
+            "chest": { "in": "46–48", "cm": "116–121" }
+          },
+          {
+            "size": "XXL",
+            "length": { "in": "32–34", "cm": "82–84" },
+            "chest": { "in": "50–52", "cm": "126–132" }
+          },
+          {
+            "size": "XXXL",
+            "length": { "in": "34–36", "cm": "87–89" },
+            "chest": { "in": "54–56", "cm": "137–142" }
+          }
+        ]
+      }
+    }
+  },
+
+  "checkout": {
+    "title": "Checkout",
+    "subtitle": "Complete your order securely",
+    "form": {
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+1 555 123 4567",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "John Doe",
+      "streetAddress": "Street Address",
+      "streetAddressPlaceholder": "123 Main Street",
+      "city": "City",
+      "cityPlaceholder": "Cape Town",
+      "postalCode": "Postal Code",
+      "postalCodePlaceholder": "10001",
+      "statePlaceholder": "Example: Gauteng",
+      "state": "State / Province ",
+      "country": "Country",
+      "selectCountry": "Select country",
+      "deliveryAddress": "Delivery Address",
+      "selectAddress": "Select an address"
+    },
+    "steps": {
+      "address": "Address",
+      "payment": "Payment",
+      "review": "Review"
+    },
+    "preferences": {
+      "title": "Preferences",
+      "subtitle": "Customize your checkout experience",
+      "guestTitle": "Checking out as guest",
+      "guestMessage": "Create an account to save your preferences and enjoy faster checkout on future orders",
+      "saveAddress": "Save this address for future orders",
+      "addressBenefit": " Quick checkout on your next order",
+      "paymentMethodBenefit": "Securely save for faster payments",
+      "savePaymentMethod": "Save this payment method for future purchases",
+      "infoBanner": "Your information is encrypted and stored securely. You can manage saved data in your account settings."
+    },
+    "actions": {
+      "continue": "Continue to Payment",
+      "payNow": "Pay Now"
+    },
+    "modal": {
+      "title": "Loading Payment Gateway",
+      "subtitle": "Please wait while we prepare your secure payment...",
+      "description": "The Flutterwave checkout window will open shortly."
+    },
+    "processing": "Processing...",
+    "trustMessage": "🔒 Your payment information is encrypted and secure",
+    "termsNote": "By placing your order, you agree to our Terms & Conditions and Privacy Policy"
+  },
+
+  "order": {
+    "success": {
+      "created": "Order created. Proceed to payment.",
+      "shippingUpdated": "Shipping details updated",
+      "title": "Order confirmed",
+      "description": "Thanks for shopping with us. Your order has been placed successfully.",
+      "orderNumberLabel": "Order number",
+      "emailNotice": "A confirmation email will be sent to you shortly.",
+      "cancelSuccessfully": "Order cancelled successfully",
+      "actions": {
+        "copyOrderNumber": "Copy order number",
+        "copyTrackingLink": "Copy tracking link",
+        "trackOrder": "Track order",
+        "continueShopping": "Continue shopping"
+      }
+    },
+    "labels": {
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "tax": "Tax",
+      "total": "Total",
+      "add": "Add",
+      "free": "FREE",
+      "secureCheckout": "Secure checkout",
+      "freeReturns": "Free returns within 30 days",
+      "247Support": "24/7 customer support"
+    },
+    "errors": {
+      "invalidCart": "Your cart is no longer valid",
+      "outOfStock": "Some items are out of stock",
+      "notFound": "Order not found",
+      "generic": "Could not complete order"
+    },
+    "track": {
+      "title": "Track Your Order",
+      "subtitle": "Enter your order number to check the status and delivery progress",
+
+      "form": {
+        "label": "Order Number",
+        "placeholder": "e.g., KBC-1A2B3C4D",
+        "helper": "You can find your order number in the confirmation email we sent you",
+        "submit": "Track Order"
+      },
+      "orderSummary": {
+        "title": "Order Summary",
+        "items": {
+          "one": "{{count}} item",
+          "other": "{{count}} items"
+        },
+        "total": "Total"
+      },
+
+      "help": {
+        "title": "Need Help?",
+        "emailHint": "Order numbers are sent to your email immediately after purchase",
+        "accountHint": "If you have an account, you can also view your orders in",
+        "accountLink": "My Account",
+        "contactHint": "Can't find your order?",
+        "contactLink": "Contact support"
+      },
+      "loading": "Loading your order...",
+      "notFound": {
+        "title": "Order Not Found",
+        "description": "We couldn't find an order with that number."
+      },
+      "status": {
+        "orderPlaced": "Order Placed",
+        "processing": "Processing",
+        "shipped": "Shipped",
+        "delivered": "Delivered",
+        "pending": "Pending",
+        "confirmed": "Confirmed",
+        "paymentFailed": "Payment failed",
+        "cancelled": "Cancelled",
+        "default": "Status update"
+      },
+      "statusNotes": {
+        "PENDING": "We have received your order and are awaiting payment.",
+        "CONFIRMED": "Your payment was confirmed. We're preparing your order.",
+        "PROCESSING": "Your order is being prepared.",
+        "SHIPPED": "Your package is on the way.",
+        "DELIVERED": "Your package has been delivered.",
+        "PAYMENT_FAILED": "Your payment could not be processed.",
+        "CANCELLED": "This order has been cancelled.",
+        "default": "Your order is being processed."
+      },
+      "track": {
+        "pageTitle": "Order Tracking",
+        "orderLabel": "Order",
+        "copyOrderNumber": "Copy order number",
+
+        "deliveryProgress": "Delivery Progress",
+        "timeline": "Order Timeline",
+
+        "steps": {
+          "orderPlaced": "Order Placed",
+          "processing": "Processing",
+          "shipped": "Shipped",
+          "delivered": "Delivered"
+        },
+
+        "items": "Order Items",
+        "variant": "Variant",
+        "qty": "Qty",
+        "total": "Total",
+
+        "shipping": "Shipping Address",
+        "contact": "Contact",
+
+        "viewReceipt": "View Receipt"
+      }
+    }
+  },
+
+  "auth": {
+    "success": {
+      "registered": "Account created successfully 🎉",
+      "loggedIn": "Welcome back 👋",
+      "loggedOut": "Logged out successfully",
+      "resetSent": "Reset link sent. Check your email 📧",
+      "passwordReset": "Password reset successful. You can now log in."
+    },
+    "errors": {
+      "invalidCredentials": "Invalid email or password",
+      "invalidEmail": "Invalid email address",
+      "notFound": "Account not found",
+      "generic": "Authentication failed"
+    },
+    "login": {
+      "title": "My Account",
+      "subtitle": "Sign in or create an account",
+
+      "signIn": {
+        "title": "Sign In",
+        "welcome": "Welcome back! Please enter your details",
+        "emailLabel": "Email Address",
+        "emailPlaceholder": "you@example.com",
+        "passwordLabel": "Password",
+        "passwordPlaceholder": "••••••••",
+        "forgotPassword": "Forgot password?",
+        "submit": "Sign In",
+        "loading": "Signing in..."
+      },
+
+      "newCustomer": {
+        "title": "New Customer?",
+        "description": "Create an account to enjoy faster checkout, track your orders, and access exclusive benefits.",
+        "benefits": {
+          "trackOrders": "Track your orders in real-time",
+          "saveAddresses": "Save addresses for faster checkout",
+          "orderHistory": "Access your complete order history"
+        },
+        "cta": "Create an Account"
+      }
+    },
+    "register": {
+      "title": "Create an Account",
+      "subtitle": "Join us and start your shopping journey",
+
+      "form": {
+        "firstName": {
+          "label": "First Name",
+          "placeholder": "John"
+        },
+        "lastName": {
+          "label": "Last Name",
+          "placeholder": "Doe"
+        },
+        "email": {
+          "label": "Email Address",
+          "placeholder": "you@example.com"
+        },
+        "password": {
+          "label": "Password",
+          "placeholder": "••••••••",
+          "hint": "Minimum 8 characters"
+        }
+      },
+
+      "submit": {
+        "default": "Create Account",
+        "loading": "Creating account..."
+      },
+
+      "footer": {
+        "alreadyHaveAccount": "Already have an account?",
+        "signIn": "Sign in here"
+      }
+    },
+    "checkEmail": {
+      "title": "Check Your Email",
+      "description": "We've sent a verification link to your email address. Please click the link to activate your account and get started.",
+      "openGmail": "Open Gmail",
+      "havingTrouble": "Having trouble?",
+      "didntReceiveTitle": "Didn't receive the email?",
+      "tip1": "Check your spam or junk folder",
+      "tip2": "Make sure you entered the correct email",
+      "tip3": "Wait a few minutes for the email to arrive",
+      "resendEmail": "Resend verification email",
+      "resending": "Sending...",
+      "backToLogin": "Back to login",
+      "needHelp": "Need help?",
+      "contactSupport": "Contact support"
+    },
+    "verifyEmail": {
+      "title": "Email Verification",
+      "verifying": "Verifying Your Email",
+      "verifyingDescription": "Please wait while we verify your email address. This will only take a moment.",
+      "successTitle": "Email Verified Successfully! 🎉",
+      "successDescription": "Your email has been verified. You can now access all features of your account.",
+      "redirecting": "Redirecting to your account...",
+      "errorTitle": "Verification Failed",
+      "errorDescription": "The verification link is invalid or has expired. Please request a new verification email.",
+      "backToLogin": "Back to login",
+      "tryAgain": "Request new verification email",
+      "contactSupport": "Contact support"
+    },
+    "forgotPassword": {
+      "title": "Forgot Password",
+      "subtitle": "We’ll send you a reset link if your email exists",
+
+      "form": {
+        "email": {
+          "label": "Email Address",
+          "placeholder": "you@example.com"
+        }
+      },
+
+      "submit": {
+        "default": "Send Reset Link",
+        "loading": "Sending..."
+      },
+
+      "backToLogin": "Back to sign in",
+
+      "success": {
+        "title": "Check your inbox",
+        "description": "If an account exists for {{email}}, you’ll receive a password reset link shortly.",
+        "cta": "Return to Login"
+      }
+    },
+    "unauthenticatedState": {
+      "title": "Authentication Required",
+      "description": "Sign in to access this feature and enjoy a personalized shopping experience"
+    },
+    "resetPassword": {
+      "title": "Reset your password",
+      "subtitle": "Enter a new password to regain access to your account.",
+      "newPassword": "New password",
+      "confirmPassword": "Confirm new password",
+      "submit": "Reset password",
+      "invalidOrExpired": "This reset link is invalid or has expired."
+    }
+  },
+
+  "profile": {
+    "success": {
+      "updated": "Profile updated successfully",
+      "deactivated": "Your account has been deactivated"
+    },
+    "errors": {
+      "generic": "Unable to update your profile",
+      "loginPrompt": "Please sign in to view your profile"
+    },
+    "navigation": {
+      "profile": "Profile",
+      "orders": "Orders",
+      "addresses": "Addresses",
+      "payment": "Payment",
+      "settings": "Settings"
+    },
+
+    "overview": {
+      "greeting": "Hi, {{name}}",
+      "memberSince": "Member since {{year}} · Account overview",
+
+      "stats": {
+        "totalOrders": "Total Orders",
+        "activeOrders": "Active Orders",
+        "recentOrders": "Recent Orders",
+        "delivered": "Delivered",
+        "totalSpent": "Total Spent",
+        "ordersThisMonth": "Orders This Month",
+        "savedAddresses": "Saved Addresses",
+        "paymentMethods": "Payment Methods",
+        "noOrders": "No orders yet"
+      }
+    },
+
+    "orders": {
+      "title": "Order History",
+      "preview": "Order Preview",
+      "shippingAddress": "Shipping Address",
+      "orderTimeline": "Order Timeline",
+      "subtitle": {
+        "one": "{{count}} order · Track and manage your purchases",
+        "other": "{{count}} orders · Track and manage your purchases"
+      },
+
+      "searchPlaceholder": "Search order number...",
+      "filterAll": "All Statuses",
+
+      "order": {
+        "items": {
+          "one": "{{count}} item",
+          "other": "{{count}} items"
+        },
+        "orderTotal": "Order total",
+        "orderDetails": "Order Details"
+      },
+      "actions": {
+        "viewOrder": "View Order",
+        "viewDetails": "View Details",
+        "viewReceipt": "View Receipt",
+        "searchOrder": "Search order number..",
+        "copyOrderNumber": "Copy order number",
+        "filterByStatus": "Filter by status",
+        "retryPayment": "Retry Payment",
+        "cancelOrder": "Cancel Order",
+        "trackOrder": "Track Order"
+      },
+
+      "status": {
+        "confirmed": "Confirmed",
+        "pending": "Pending",
+        "cancelled": "Cancelled",
+        "refunded": "Refunded"
+      },
+      "empty": {
+        "title": "No orders found",
+        "orderNotFound": "Order not found",
+        "description": " Try adjusting your search or filters"
+      }
+    },
+
+    "addresses": {
+      "title": "Saved Addresses",
+      "addresses": {
+        "one": "{{count}} address",
+        "other": "{{count}} addresses"
+      },
+      "empty": {
+        "title": "No addresses saved yet",
+        "description": "Add your first shipping address",
+        "cta": "Add Address"
+      },
+      "form": {
+        "fullName": "Receipient Full Name",
+        "company": "Company (optional)",
+        "streetAddress": "Street Address",
+        "apartment": "Apartment, suite, etc. (optional)",
+        "city": "City",
+        "state": "State / Province / Region",
+        "postalCode": "Postal or ZIP code",
+        "country": "Country",
+        "phone": "Phone Number",
+        "setAsDefault": "Set as default address",
+        "actions": {
+          "save": "Save Address",
+          "cancel": "Cancel",
+          "update": "Update Address"
+        }
+      },
+
+      "default": "Default",
+
+      "actions": {
+        "edit": "Edit",
+        "editAddress": "Edit Address",
+        "cancelEdit": "Cancel Edit",
+        "delete": "Delete",
+        "addNew": "Add New",
+        "setDefault": "Set Default",
+        "toggleForm": "Toggle address form",
+        "addNewAddress": "Add New Address",
+        "confirmDelete": "Are you sure you want to delete this address?"
+      }
+    },
+
+    "payment": {
+      "title": "Payment Methods",
+      "noPaymentMethods": "No payment methods saved",
+      "addNew": "Add a payment method for faster checkout",
+      "billingInfo": "Billing Info",
+      "bilingName": "Billing Name",
+      "billingCountry": "Billing Country",
+      "billingNamePlaceholder": "John Doe",
+      "card": {
+        "expires": "Expires {{date}}",
+        "default": "Default"
+      },
+
+      "actions": {
+        "edit": "Edit",
+        "save": "Save",
+        "setDefault": "Set Default",
+        "cancelEdit": "Cancel Edit",
+        "remove": "Remove Payment Method"
+      }
+    },
+
+    "settings": {
+      "title": "Account Settings",
+      "personalInfo": {
+        "title": "Personal Information",
+        "description": "Manage your account details and contact information",
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "updateInfo": "Update Information",
+        "notSet": "Not set",
+        "memberSince": "Member Since"
+      },
+      "security": {
+        "title": "Security",
+        "currentPassword": "Current Password",
+        "newPassword": "New Password",
+        "confirmNewPassword": "Confirm New Password",
+        "passwordHint": "Minimum 8 characters",
+        "updatePassword": "Update Password",
+        "allFieldsRequired": "Please fill in all password fields.",
+        "passwordsDoNotMatch": "New password and confirmation do not match."
+      },
+
+      "notifications": {
+        "title": "Notifications",
+
+        "orderUpdates": {
+          "label": "Order Updates",
+          "description": "Get notified about your order status and delivery"
+        },
+
+        "promotions": {
+          "label": "Promotions & Offers",
+          "description": "Receive exclusive deals and early access to sales"
+        },
+
+        "newsletter": {
+          "label": "Newsletter",
+          "description": "Weekly updates about new arrivals and trends"
+        },
+
+        "securityAlerts": {
+          "label": "Security Alerts",
+          "description": "Important notifications about account security"
+        }
+      },
+
+      "dangerZone": {
+        "title": "Danger Zone",
+        "description": "Permanently delete your account and all associated data. This action cannot be undone.",
+        "deleteAccount": "Delete Account",
+        "confirmDeactivate": "Are you sure you want to deactivate your account?"
+      },
+      "actions": {
+        "updatePassword": "Update Password",
+        "deleteAccount": "Delete Account",
+        "saveChanges": "Save Changes",
+        "cancel": "Cancel",
+        "edit": "Edit",
+        "delete": "Delete",
+        "editProfile": "Edit Profile",
+        "changePassword": "Change Password",
+        "update": "Update"
+      }
+    }
+  },
+
+  "footer": {
+    "tagline": "Elevate your style with premium fashion. Discover curated collections that define modern elegance.",
+    "securePayment": "Secure payment",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Get 20% off your first order. Subscribe for exclusive offers.",
+      "emailPlaceholder": "Enter your email",
+      "subscribe": "Subscribe",
+      "success": "Successfully subscribed to newsletter!",
+      "invalidEmail": "Please enter a valid email",
+      "privacy": "We respect your privacy. Unsubscribe at any time."
+    },
+    "links": {
+      "shop": "Shop",
+      "customerService": "Customer Service",
+      "company": "Company",
+      "helpCenter": "Help Center",
+      "careers": "Careers",
+      "sustainability": "Sustainability"
+    },
+    "legal": {
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "copyright": "All rights reserved"
+    }
+  },
+  "collections": {
+    "header": {
+      "filters": "Filters",
+      "clearAll": "Clear All",
+      "products": {
+        "one": "product",
+        "other": "products"
+      },
+      "sort": {
+        "newestMobile": "Newest",
+        "priceLow": "Price: Low to High",
+        "priceHigh": "Price: High to Low",
+        "popular": "Most Popular"
+      },
+      "view": {
+        "grid": "Grid",
+        "list": "List",
+        "gridView": "Grid view",
+        "listView": "List view"
+      }
+    },
+    "filters": {
+      "categories": "Categories",
+      "sizes": "Sizes",
+      "colors": "Colors",
+      "productType": "Product Type",
+      "availability": "Availability",
+      "inStockOnly": "In Stock Only",
+      "outOfStock": "Out of Stock",
+      "priceRange": "Price Range",
+      "applyFilters": "Apply Filters",
+      "resetFilters": "Reset Filters",
+      "closeFilters": "Close filters",
+      "openFilters": "Open filters"
+    },
+    "hero": {
+      "allCollections": "All Collections",
+      "fallbackDescription": "Explore our complete selection of premium styles, curated goods, and new arrivals."
+    },
+    "empty": {
+      "title": "Category not found",
+      "description": "The collection you are looking for does not exist."
+    }
+  },
+  "search": {
+    "title": "Search",
+    "closeSearch": "Close search",
+    "placeholder": "Search products, categories...",
+    "recentSearches": "Recent Searches",
+    "removeFromHistory": "Remove from history",
+    "results": {
+      "one": "Result",
+      "other": "Results"
+    },
+    "noResults": {
+      "title": "No results found",
+      "description": "Try different keywords or check spelling"
+    }
+  },
+  "review": {
+    "successTitle": "Thank You! 🎉",
+    "successMessage": "Your review has been submitted successfully.",
+    "successButton": "Back to Collections",
+
+    "pageTitle": "How Was Your Experience?",
+    "pageSubtitle": "Reviewing order",
+
+    "emailLabel": "Your Email",
+    "emailPlaceholder": "Enter the email used for this order",
+
+    "ratingLabel": "Rate your experience",
+
+    "messageLabel": "Share your thoughts",
+    "messagePlaceholder": "Tell us about the product quality, delivery, packaging...",
+
+    "languageLabel": "Preferred language",
+
+    "submitButton": "Submit Feedback",
+    "submitting": "Submitting...",
+
+    "footerNote": "Your feedback helps us improve ❤️"
+  }
+}
