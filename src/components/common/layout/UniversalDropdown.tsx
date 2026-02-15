@@ -68,7 +68,7 @@ export default function UniversalDropdown({
 
         <ChevronDown
           className={clsx(
-            "w-5 h-5 text-gray-400 transition-transform shrink-0",
+            "w-5 h-5 text-white transition-transform shrink-0",
             open && "rotate-180",
           )}
         />
@@ -92,7 +92,7 @@ export default function UniversalDropdown({
                 setOpen(false);
               }}
               className={clsx(
-                "w-full text-left px-4 py-3 text-sm transition",
+                "w-full text-left text-white px-4 py-3 text-sm transition",
                 value === opt.value
                   ? "bg-accent/10 text-accent font-semibold"
                   : "hover:bg-gray-100 dark:hover:bg-gray-800",
