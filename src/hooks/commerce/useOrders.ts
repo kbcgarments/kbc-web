@@ -31,8 +31,7 @@ export function useCheckoutOrder(cartId: string) {
 
     onError: (err) => {
       const { translate } = useLanguageStore.getState();
-      // error(translate(interpretOrderError(err)));
-      error(err.message);
+      error(translate(interpretOrderError(err)));
     },
   });
 }
