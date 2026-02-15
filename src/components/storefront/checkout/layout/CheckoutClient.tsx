@@ -102,7 +102,6 @@ export default function CheckoutClient() {
     };
     const { order } = await checkoutOrder.mutateAsync(payload);
     setOrder(order);
-    console.log(order);
     setStep("summary");
   };
 
