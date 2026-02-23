@@ -27,16 +27,69 @@ const KEYS = {
   testimonials: ["admin", "testimonials"],
   metrics: ["admin", "metrics"],
 } as const;
+const HOME_KEYS = {
+  hero: ["homepage", "hero"],
+  banners: ["homepage", "banners"],
+  featured: (take: number) => ["homepage", "featured-products", take] as const,
+  bestSellers: (take: number) => ["homepage", "best-sellers", take] as const,
+  newArrivals: (take: number) => ["homepage", "new-arrivals", take] as const,
+  testimonials: (take: number) => ["homepage", "testimonials", take] as const,
+  whyChooseUs: ["homepage", "why-choose-us"],
+} as const;
 
-/* ======================================================
-   🌍 PUBLIC HOMEPAGE
-====================================================== */
-
-export function useHomepage() {
+export function useHomepageHero() {
   return useQuery({
-    queryKey: KEYS.homepage,
-    queryFn: () => apiClient.get<HomepageResponse>("/commerce/homepage"),
+    queryKey: HOME_KEYS.hero,
+    queryFn: () => apiClient.get("/commerce/hero"),
     staleTime: 1000 * 60 * 5,
+  });
+}
+
+export function useHomepageBanners() {
+  return useQuery({
+    queryKey: HOME_KEYS.banners,
+    queryFn: () => apiClient.get("/commerce/banners"),
+    staleTime: 1000 * 60 * 5,
+  });
+}
+
+export function useHomepageFeaturedProducts(take = 8) {
+  return useQuery({
+    queryKey: HOME_KEYS.featured(take),
+    queryFn: () => apiClient.get(`/commerce/featured-products?take=${take}`),
+    staleTime: 1000 * 60 * 3,
+  });
+}
+
+export function useHomepageBestSellers(take = 8) {
+  return useQuery({
+    queryKey: HOME_KEYS.bestSellers(take),
+    queryFn: () => apiClient.get(`/commerce/best-sellers?take=${take}`),
+    staleTime: 1000 * 60 * 5,
+  });
+}
+
+export function useHomepageNewArrivals(take = 12) {
+  return useQuery({
+    queryKey: HOME_KEYS.newArrivals(take),
+    queryFn: () => apiClient.get(`/commerce/new-arrivals?take=${take}`),
+    staleTime: 1000 * 60 * 2,
+  });
+}
+
+export function useHomepageTestimonials(take = 6) {
+  return useQuery({
+    queryKey: HOME_KEYS.testimonials(take),
+    queryFn: () => apiClient.get(`/commerce/testimonials?take=${take}`),
+    staleTime: 1000 * 60 * 10,
+  });
+}
+
+export function useHomepageWhyChooseUs() {
+  return useQuery({
+    queryKey: HOME_KEYS.whyChooseUs,
+    queryFn: () => apiClient.get("/commerce/why-choose-us"),
+    staleTime: 1000 * 60 * 10,
   });
 }
 
