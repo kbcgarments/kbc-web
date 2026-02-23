@@ -19,7 +19,7 @@ export default function WhyChooseUsSection({
 
   if (isLoading) {
     return (
-      <section className="py-8  bg-brown">
+      <section className="py-8">
         <div className="max-w-7xl mx-auto px-6 md:px-12">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {[...Array(4)].map((_, i) => (
@@ -34,6 +34,7 @@ export default function WhyChooseUsSection({
       </section>
     );
   }
+  if (!isLoading && features.length === 0) return null;
 
   return (
     <section className="bg-brown py-8">
