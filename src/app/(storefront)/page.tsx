@@ -44,7 +44,7 @@ export default function HomePage() {
 
   const { data: categoriesData = [], isLoading: categoriesLoading } =
     useGetCategories();
-  console.log("hero: ", hero);
+
   return (
     <main className="w-full space-y-10">
       <HeroSection
