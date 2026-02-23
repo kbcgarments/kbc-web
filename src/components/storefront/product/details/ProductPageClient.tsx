@@ -14,8 +14,8 @@ import {
 import {
   useAddToCart,
   useToggleWishlist,
-  useHomepage,
   useProductVariant,
+  useHomepageFeaturedProducts,
 } from "@/hooks";
 
 import { Product, ProductContentSection } from "@/types";
@@ -45,10 +45,11 @@ export default function ProductPageClient({ product }: ProductPageClientProps) {
   const { language, translate } = useLanguageStore();
   const { formatPrice } = useCurrencyStore();
   const { error, success } = useToastStore();
+  const { data: recommendedProductsData, isLoading: isRecommendedLoading } =
+    useHomepageFeaturedProducts();
   const addToCart = useAddToCart();
   const toggleWishlist = useToggleWishlist();
   const isInWishlist = useWishlistStore((s) => s.hasItem(product.id));
-  const { data: homepageData, isLoading: isRecommendedLoading } = useHomepage();
   const [imageIndex, setImageIndex] = useState(0);
   const variant = useProductVariant(product);
   const { selectedVariant } = variant;
@@ -66,10 +67,10 @@ export default function ProductPageClient({ product }: ProductPageClientProps) {
   );
 
   const recommendedProducts = useMemo(() => {
-    return Array.isArray(homepageData?.featuredProducts)
-      ? homepageData.featuredProducts.slice(0, 8)
+    return Array.isArray(recommendedProductsData)
+      ? recommendedProductsData.slice(0, 8)
       : [];
-  }, [homepageData]);
+  }, [recommendedProductsData]);
 
   /* ======================================================
      STATE
